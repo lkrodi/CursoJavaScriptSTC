@@ -75,5 +75,8 @@ var yo = {
 
 console.log(yo.Fechadenacimiento);
 
+/*Enlace al curso de Javascript desde 0:
+    https://www.youtube.com/watch?v=nsdjNe78BMk&list=PLEtcGQaT56cij4cilDUzKYcu6-wW44kTx
+*/
 
 
